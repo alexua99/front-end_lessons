@@ -1,0 +1,46 @@
+/* font-family: 'Montserrat', sans-serif; */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.color--red {
+    color: #FB6D3A;
+}
+
+.portfolio {
+    padding: 102px 88px;
+}
+
+.portfolio__roli-container {
+    max-width: 443px;
+    margin-bottom: 64px;
+}
+
+.portfolio__roli {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 19px;
+}
+
+.portfolio__name {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 24px;
+}
+
+.portfolio__text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
