@@ -1,0 +1,232 @@
+/* font-family: 'Montserrat', sans-serif; */
+
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+a:link
+{
+    text-decoration: none;
+}
+.orange
+{
+    color: #FB6D3A;
+}
+.thin
+{
+    font-weight: 400;    
+}
+.about
+{
+    padding: 88px 102px 0px;
+}
+.about__summary-container
+{
+    max-width: 443px;
+    margin-bottom: 64px;
+}
+.about__role
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: 00000;
+    margin-bottom: 19px;
+}
+.about__name
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 24px;
+}
+.about__text
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.projects
+{
+    padding: 0px 102px;
+}
+.projects__container
+{
+    max-width: 485px;
+    margin-bottom: 51px;
+}
+.projects__title
+{
+    margin-bottom: 8px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+.projects__items
+{
+    margin-left: 17px;
+    max-width: 485x;
+}
+.projects__url::marker
+{
+    font-weight: 700;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+.projects__url-text
+{
+    margin-left: 13px;
+    max-width: 208px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    text-underline-position: unset;
+}
+.projects__technologies
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+.experience
+{
+    padding: 0px 0px 0px 102px;
+    max-width: 525px;
+    margin-bottom: 43px;    
+}
+.experience__title
+{
+    margin-bottom: 12px;
+    width: 198px;
+    height: 27px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+.experience__container
+{
+    max-width: 525px;
+    margin-bottom: 16px;
+}
+.experience__role
+{
+    margin-bottom: 11px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.experience__dates
+{
+    margin-bottom: 8px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.experience__description
+{
+    margin-left: 17px;
+    max-width: 485x;
+}
+.experience__description-text::marker
+{
+    width: 6px;
+    height: 96px;
+    padding-right: 100px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.experience__description-marker
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.experience__description__text
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.education
+{
+    padding: 0px 0px 0px 102px;
+    max-width: 327px;
+    margin-bottom: 107px;
+}
+.ecucation__title
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+.education__university
+{
+    margin-top: 12px;
+    margin-bottom: 11px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+.education__speciality
+{
+    margin-bottom: 12px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+.education__dates
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+
+}

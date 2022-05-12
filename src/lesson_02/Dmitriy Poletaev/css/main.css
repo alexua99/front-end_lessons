@@ -1,0 +1,184 @@
+/* font-family: 'Montserrat', sans-serif;  */
+html{
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+
+body{
+    font-family: 'Montserrat';
+}
+
+.numbers{
+    color: #000000;
+}
+
+.experience__list-tittle__color{
+    color: #FB6D3A;
+}
+
+.portfolio{
+    padding: 88px; 
+    
+    
+}
+
+.portfolio__roli{
+
+   
+    margin-bottom: 19px;    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    
+}
+
+.portfolio__name{
+
+   
+    margin-bottom: 24px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    
+}
+
+.portfolio__text{
+
+   
+    margin-bottom: 64px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    
+
+}
+
+
+
+.projects__roli{
+
+   
+    margin-bottom: 8px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.projects__list{
+    
+   
+    margin-bottom: 51px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+
+.experience__roli{
+    
+  
+    margin-bottom: 12px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+
+}
+
+.experience__list-tittle{
+    
+    margin-top: 12px;
+    margin-bottom: 11px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+
+}
+
+.experience__list__sub-tittle{
+    
+   
+    margin-bottom: 8px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+
+}
+
+.experience__list{
+    
+    margin-bottom: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+
+}
+
+
+
+
+.eduacation__roli{
+
+    
+    
+    margin-bottom: 12px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+
+}
+
+.eduacation__list-tittle{
+
+    
+    margin-top: 12px;
+    margin-bottom: 11px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+
+}
+
+.education__list-sub-tittle{
+
+    
+    margin-top: 12px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+
+}
+
+
+.border{
+    border: dashed;
+    color: #A8A8A8;
+}

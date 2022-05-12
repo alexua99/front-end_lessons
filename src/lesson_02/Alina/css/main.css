@@ -1,0 +1,155 @@
+/*font-family: 'Montserrat',
+sans-serif;*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.portfolio {
+    margin: 102px 88px;
+}
+
+.portfolio_roli-container {
+    max-width: 443px;
+    margin-bottom: 64px;
+}
+
+.portfolio_roli {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 19px;
+}
+
+.portfolio_name {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 24px;
+    color: #000000;
+}
+
+.portfolio_text {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.portfolio_links {
+    width: 485px;
+}
+
+.porfolio_links-name,
+.portfolio_expirience-name,
+.portfolio_education-name {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.porfolio_links-list {
+    padding-top: 10px;
+    margin-left: 15px;
+}
+
+.porfolio_links-list li {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #000000;
+}
+
+.porfolio_links-list a {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+    color: #595959;
+}
+
+.portfolio_links span {
+    border-bottom: 2px dashed #A8A8A8;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 100px;
+    color: #595959;
+}
+
+.portfolio_links strong {
+    font-weight: 700;
+    color: #000000;
+}
+
+.portfolio_expirience {
+    margin-top: 51px;
+    width: 509px;
+}
+
+.portfolio_subtitle,
+.portfolio_subtitle-manager,
+.portfolio_subtitle_manager-llc {
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.portfolio_subtitle-orange,
+.portfolio_subtitle_orange-manager,
+.portfolio_subtitle_orange_manager-llc {
+    color: #FB6D3A;
+}
+
+.portfolio_subtitle_date_freelance,
+.portfolio_subtitle_date-manager,
+.portfolio_subtitle_date_manager-llc,
+.portfolio_education-date {
+    padding-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.portfolio_expirience-list,
+.portfolio_expirience_list-manager,
+.portfolio_expirience_list_manager-llc {
+    padding-top: 10px;
+    margin-left: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.portfolio_education {
+    margin-top: 51px;
+}
+
+.portfolio_education-info {
+    padding-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #FB6D3A;
+}
+
+.portfolio_education-info span {
+    font-size: 14px;
+    display: block;
+    padding-top: 10px;
+    line-height: 17px;
+    color: #000000;
+}
