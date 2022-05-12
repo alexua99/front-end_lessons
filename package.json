@@ -103,7 +103,7 @@
     "wildcard": "^2.0.0"
   },
   "scripts": {
-    "start": "webpack serve"
+    "start": "open http://localhost:9000/ & webpack serve"
   },
   "repository": {
     "type": "git",
