@@ -1,9 +1,3 @@
-function component() {
-    const element = document.createElement('div');
+import styles from "./style.css";
 
-    element.innerHTML = _.join(['Test', 'Js'], ' ');
-
-    return element;
-}
-
-document.body.appendChild(component());
+console.log(styles);

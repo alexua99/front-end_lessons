@@ -1,5 +1,8 @@
 {
   "devDependencies": {
+    "mini-css-extract-plugin": "^2.6.0",
+    "sass": "^1.52.1",
+    "sass-loader": "^13.0.0",
     "webpack": "^5.72.1",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.9.0"
@@ -16,6 +19,7 @@
     "buffer-from": "^1.1.2",
     "caniuse-lite": "^1.0.30001340",
     "chrome-trace-event": "^1.0.3",
+    "clean-webpack-plugin": "^4.0.0",
     "clone-deep": "^4.0.1",
     "colorette": "^2.0.16",
     "commander": "^2.20.3",
@@ -40,6 +44,7 @@
     "graceful-fs": "^4.2.10",
     "has": "^1.0.3",
     "has-flag": "^4.0.0",
+    "html-webpack-plugin": "^5.5.0",
     "human-signals": "^2.1.0",
     "import-local": "^3.1.0",
     "interpret": "^2.2.0",
@@ -103,7 +108,8 @@
     "wildcard": "^2.0.0"
   },
   "scripts": {
-    "start": "open http://localhost:9000/ & webpack serve"
+    "start": "open http://localhost:9000/ & webpack serve",
+    "dev": "webpack"
   },
   "repository": {
     "type": "git",

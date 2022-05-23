@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    background-color: #C4C4C4;
+    padding: 60px 80px;
+    max-width: 1300px;
+    min-width: 300px;
+}
+
+.box__item {
+    background-color: #DC3F3F;
+    min-height: 165px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.box__item:last-child {
+    margin-bottom: 0;
+}
+
+.box__item-block {
+    background-color: #412A2A;
+    min-height: 165px;
+    margin-bottom: 20px;
+}
+
+.box__item-block:last-child {
+    margin-bottom: 0;
+}
